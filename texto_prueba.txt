@@ -1,1 +1,3 @@
-Hola una prueba en la rama
+Al modificar esto genero un conflicto
+
+Esto me generará una confusión porque estoy creando nuevo texto.
