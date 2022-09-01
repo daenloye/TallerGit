@@ -1,1 +1,3 @@
-Hola una prueba en la rama
+Aqui voy a generar un conflicto con la otra rama porque también edité esto
+
+Aqui edito en master
